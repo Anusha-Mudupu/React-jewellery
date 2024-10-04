@@ -1,0 +1,60 @@
+/*
+ *   Copyright (c) 2024 Dmantz Technologies private limited
+ *   All rights reserved.
+ */
+/* Navbar.css */
+/* .bg {
+    background-color: #320000 ;
+ 
+  }
+  
+  .navbar-nav .nav-link,
+  .navbar-brand,
+  .dropdown-item ,
+  .Navbar.Toggle,
+  .Navbar.Collapse{
+    color: #A28F62
+  }
+  
+  .navbar-nav .nav-link:hover,
+  .navbar-brand:hover,
+  .dropdown-item:hover {
+    color: #d4af37 !important; 
+  } */
+  /* *{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  } */
+
+  
+  .custom-nav .nav-link:not(:last-child)::after {
+    content: "|"; /* Add separator after each item except the last */
+    padding-left: 10px;
+    color: #70510a;  /* Color of the separator */
+  }
+  
+ 
+  
+  .custom-nav .nav-link {
+    display: inline-block;
+    padding: 0 10px; /* Add space between links */
+    /* color: #cd9617;  */
+    position: relative;
+    left:30%;
+  }
+
+  /* Custom CSS for Navbar */
+.bg {
+  background-color: rgb(14, 1, 1); /* Adjust your background color */
+  color: white;
+}
+
+/* Add padding to the body or main content */
+body{
+  padding-top: 80px;
+  position: relative;
+}
+
+.navbar {
+  box-shadow: 0 4px 2px -2px rgb(14, 1, 1); /* Add a shadow for better visibility while scrolling */
+  z-index: 1000; /* Ensure it's always on top of other elements */
+}

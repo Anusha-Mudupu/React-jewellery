@@ -1,0 +1,23 @@
+/*
+ *   Copyright (c) 2024 Dmantz Technologies private limited
+ *   All rights reserved.
+ */
+ .DeliveryAddress{
+    /* background-color: #320000; */
+    color: white !important;
+    position: relative;
+    text-align: center;
+    padding: 30px;
+}
+h1{
+    color:#320000 ;
+}
+.proceed-to-pay{
+    background-color:  #320000  !important;
+    color:  #A28F62 !important;
+    border: none !important;
+    border-radius: 30px;
+    font-size: 20px;
+    position: relative;
+
+}

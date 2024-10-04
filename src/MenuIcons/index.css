@@ -1,0 +1,39 @@
+/*
+ *   Copyright (c) 2024 Dmantz Technologies private limited
+ *   All rights reserved.
+ */
+ .product-images {
+    width: 100%;
+    height: 100%; /* Set fixed height for uniform size */
+    object-fit: cover; /* Ensures the image fits perfectly within the container */
+  /* Optional: Adds a subtle border radius to images */
+    margin-bottom: 15px; /* Adds space between the image and the product text */
+  }
+  .product-images:hover {
+    background-color: #320000;
+  }
+  .row {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  .col {
+    padding-left: 5px;
+    padding-right: 5px; /* Reduces the space between columns */
+  }
+  
+
+  .button {
+    background-color: #A28F62 !important;
+    color:  #320000 !important;
+    border: none !important;
+    border-radius: 30px;
+    font-size: 20px;
+  }
+  .product-image1 {
+    width: 100%;
+    height: 200px; /* Fixed height for images */
+    object-fit: cover; /* Ensures images cover the container while maintaining aspect ratio */
+    border-radius: 8px;
+    transition: all 0.3s ease-in-out;
+  }

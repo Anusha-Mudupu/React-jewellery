@@ -1,0 +1,167 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Traditional Gold Jewelry",
+      "description": "Exquisite traditional gold jewelry set.",
+      "price": 30000,
+      "discount": 12,
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg"
+    },
+    {
+      "id": "2",
+      "productName": "Gold Bangles",
+      "description": "Beautiful gold bangles with a polished finish.",
+      "price": 18000,
+      "discount": 9,
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/Untitled-design-74-1536x1536.png"
+    },
+    {
+      "id": "3",
+      "productName": "Gold Choker Necklace",
+      "description": "Stylish gold choker necklace for an elegant look.",
+      "price": 27000,
+      "discount": 6,
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png"
+    },
+    {
+      "id": "4",
+      "productName": "Gold Ring",
+      "description": "Elegant gold ring with a smooth finish.",
+      "price": 15000,
+      "discount": 10,
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/DSC0198-1536x1536.jpg"
+    },
+    {
+      "id": "5",
+      "productName": "Designer Necklace",
+      "description": "Stylish designer necklace for women.",
+      "price": 25000,
+      "discount": 15,
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png"
+    },
+    {
+      "id": "6",
+      "productName": "Fashionable Earrings",
+      "description": "Beautifully crafted golden earrings.",
+      "price": 8000,
+      "discount": 12,
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp"
+    },
+    {
+      "id": "7",
+      "productName": "Elegant Bracelet",
+      "description": "A finely crafted bracelet with intricate design.",
+      "price": 12000,
+      "discount": 8,
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png"
+    },
+    {
+      "id": "8",
+      "productName": "Classic Diamond Necklace",
+      "description": "A luxurious diamond necklace for special occasions.",
+      "price": 50000,
+      "discount": 5,
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png"
+    }
+  ],
+  "addresses": [
+    {
+      "id": "cecc",
+      "name": "Raji",
+      "street": "Nalgonda",
+      "city": "Nalgonda",
+      "state": "Telangana",
+      "zip": "508114"
+    },
+    {
+      "id": "d2e3",
+      "name": "Anu",
+      "street": "Chityala",
+      "city": "Nalgonda",
+      "state": "Telangana",
+      "zip": "508114"
+    },
+    {
+      "id": "5103",
+      "name": "Ganii",
+      "street": "Nalgonda",
+      "city": "Nalgonda",
+      "state": "Telangana",
+      "zip": "508001"
+    },
+    {
+      "id": "59b9",
+      "name": "sowmya",
+      "street": "Nalgonda",
+      "city": "Nalgonda",
+      "state": "Telangana",
+      "zip": "508001"
+    }
+  ],
+  "menuIcons": [
+    {
+      "id": "1",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/2-300x300.jpg"
+    },
+    {
+      "id": "2",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Choker-Thumbnail-300x300.jpg"
+    },
+    {
+      "id": "3",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Sitahar-Thumbnail-300x300.jpg"
+    },
+    {
+      "id": "4",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/DSC01ll93-300x300.jpg"
+    },
+    {
+      "id": "5",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/bala-300x300.jpg"
+    },
+    {
+      "id": "6",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Chain-Thumbnail-300x300.jpg"
+    },
+    {
+      "id": "7",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Earrings-Thumbnail-300x300.jpg"
+    },
+    {
+      "id": "8",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Mantasha-Thumbnail-300x300.jpg"
+    },
+    {
+      "id": "9",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/pearl-shell.webp"
+    },
+    {
+      "id": "10",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/Rings.webp"
+    },
+    {
+      "id": "11",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/Tiara-Tikli.webp"
+    },
+    {
+      "id": "12",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/Lahari.webp"
+    }
+  ],
+  "users": [
+    {
+      "id": "5200",
+      "email": "ganeshkumarbojja@gmail.com",
+      "password": "Anu@1234"
+    },
+    {
+      "id": "f523",
+      "email": "Anushareddy@gmail.com",
+      "password": "Anu@1234",
+      "name": "Anu",
+      "phoneNumber": "9876543210",
+      "city": "Nalgonda"
+    }
+  ]
+}

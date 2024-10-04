@@ -1,0 +1,29 @@
+/*
+ *   Copyright (c) 2024 Dmantz Technologies private limited
+ *   All rights reserved.
+ */
+ *{
+  font-family:'Times New Roman', Times, serif;
+}
+  
+.App-header {
+  background-color:rgb(14, 1, 1); 
+  font-size: calc(10px + 2vmin);
+  color: #A28F62;
+  position: relative;
+  
+  /* margin: 10px; */
+}
+.Navbar{
+  background-color:#320000; 
+  font-size: calc(10px + 2vmin);
+  color: #A28F62;
+  position: relative;
+  margin: 10px;;
+}
+.ProductCarousel{
+  position: relative;
+  top:30px;
+
+}
+

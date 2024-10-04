@@ -1,0 +1,89 @@
+/*
+ *   Copyright (c) 2024 Dmantz Technologies private limited
+ *   All rights reserved.
+ */
+/* Ensures that the carousel container takes up the full width */
+*{
+  font-family:serif;
+}
+.carousel-container {
+    width: 100%;
+   
+    margin: auto; /* Center the carousel */
+  }
+  .caption{
+    color: #A28F62;
+  }
+  /* Ensures that the carousel images are displayed at a consistent size */
+  .carousel-item img {
+    width: 100%;
+    height: 600px; /* Adjust the height based on your design needs */
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+  }
+
+
+  /* {
+    "id": 10,
+    "productName": "Gold Ring",
+    "description": "Elegant gold ring with a smooth finish.",
+    "price": 15000,
+    "discount": 10,
+    "image": "https://cdn1.jewelxy.com/live/img/business_product/N7R1b6C0gQ_20211031163738.jpg"
+  } */
+
+  .first-image{
+    width: 100%;
+    height: 600px; 
+    object-fit: cover; 
+  }
+ 
+  
+  .image-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 500px; 
+   
+  }
+  
+  .first-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .overlay-text {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    color: white;
+    text-align: center;
+  }
+  
+  .overlay-text h1 {
+    font-size: 2em;
+    margin: 0;
+  }
+  
+  .overlay-text h2 {
+    font-size: 1.5em;
+    margin: 10px 0;
+  }
+  
+  .overlay-text p {
+    font-size: 1.2em;
+  }
+  
+  .shop-Now {
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 1em;
+   color: white;
+   
+    cursor: pointer;
+    border-color: #cd9617;
+    background-color: black;
+    border-radius: 5px;
+  }
+  

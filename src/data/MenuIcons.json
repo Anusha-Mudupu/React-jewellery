@@ -1,0 +1,20 @@
+{
+    "menuIcons":[
+        {
+            "id": 1,
+            "image": "https://www.khazanajewellery.com/wp-content/uploads/2016/06/antique-collection.jpg"  
+        },
+        {
+            "id": 2,
+            "image": "https://www.khazanajewellery.com/wp-content/uploads/2016/06/bridal-collections.jpg"  
+        },
+        {
+            "id": 3,
+            "image": "https://www.khazanajewellery.com/wp-content/uploads/2016/06/fusion-collection_new.jpg"  
+        },
+        {
+            "id": 4,
+            "image": "https://www.khazanajewellery.com/wp-content/uploads/2016/06/diamond-collection.jpg"  
+        }
+    ]
+}

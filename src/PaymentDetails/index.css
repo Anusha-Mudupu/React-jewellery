@@ -1,0 +1,15 @@
+/*
+ *   Copyright (c) 2024 Dmantz Technologies private limited
+ *   All rights reserved.
+ */
+.PaymentDetails{
+    color: white;
+    position: relative;
+    text-align: center;
+    padding: 30px; 
+}
+.paymentButtton button{
+    margin-left: 20px;
+    position: relative;
+    
+}

@@ -1,0 +1,86 @@
+/*
+ *   Copyright (c) 2024 Dmantz Technologies private limited
+ *   All rights reserved.
+ */
+
+ .cart-table1 {
+    width: 100%;
+    border-collapse: collapse;
+     /* Dark red background color for the entire table */
+    color: #d1a338; /* White text color */
+  }
+  
+  .cart-table1 th, .cart-table1 td {
+    padding: 10px;
+    text-align: left;
+    border-color: #d1a338;
+  }
+  
+  .cart-table1 th {
+  /* Same dark red background color for the header */
+    color: #d1a338;
+  }
+  .remove{
+    /* Same dark red background color for the header */
+    color: #d1a338;
+    border-color: #d1a338;
+    border-radius: 30px; 
+    
+  }
+  .remove :hover{
+    background-color: #d1a338 !important; /* Same dark red background color for the header */
+    color: #d1a338 !important;
+    border-color: #d1a338 !important; 
+   
+  }
+  .cart-table1 tbody {
+    /* Same dark red background color for the body */
+    color: #d1a338;
+  }
+  
+  .cart-table1 td {
+   
+    color: #d1a338; /* Ensure cells also match the body color */
+  }
+  
+  .cart-table1 tr:nth-child(even) {
+     /* Alternate row color for better readability */
+    color: #d1a338;
+  }
+  
+  .cart-table1 img {
+    width: 100px;
+    height: 100px;
+  }
+  
+
+  .table th,
+.table td {
+  vertical-align: middle;
+}
+
+.card {
+  border: none;
+}
+
+.card p {
+  font-size: 16px;
+  color: #333;
+}
+
+.card h3 {
+  font-weight: bold;
+  color: #333;
+}
+
+.btn-link {
+  font-size: 20px;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.btn-primary {
+  background-color: #cfa150;
+  border-color: #cfa150;
+}
