@@ -64,7 +64,7 @@ function Products({ onAddToCart: externalOnAddToCart, onRemoveFromCart, clearCar
         <div className='card mt-3'>
             <h2 className='mt-3' style={{ textAlign: "center", fontSize: "200%" }}>Featured Products</h2>
             <div className='card-body grid-container'>
-                {products.map((product) => (
+                {products.slice(0, 8).map((product) => (
                     <div className="grid-item" key={product.id}>
                         <img
                             src={product.image}

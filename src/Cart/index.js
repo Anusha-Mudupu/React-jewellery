@@ -17,6 +17,7 @@ const Cart = ({ cartItems, onRemoveFromCart, onQuantityChange }) => {
   const calculateSubtotal = () => {
     return cartItems.reduce((acc, item) => acc + item.price * item.quantity, 0);
   };
+ 
   const totalPrice = cartItems.reduce((acc, item) => acc + item.price, 0);
   return (
     <div className='card'>
@@ -54,7 +55,7 @@ const Cart = ({ cartItems, onRemoveFromCart, onQuantityChange }) => {
                           src={item.image}
                           width="50px"
                           height="50px"
-                          alt={item.productName}
+                          alt={item.productName} 
                         />
                         <div>{item.productName}</div>
                       </td>

@@ -5,12 +5,13 @@
 
 import { Navbar, Nav, NavDropdown, Container } from 'react-bootstrap';
 import './index.css';
-
+import {  useLocation } from 'react-router-dom';
 import { Link, useNavigate } from 'react-router-dom';
 import React, { useState, useEffect } from 'react';
 import topImage from '../Assests/Images/Logo 1.png'
 
 const MyNavbar = ({ cartItemCount }) => {
+  const location = useLocation();
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const navigate = useNavigate(); // Define navigate using useNavigate hook
   console.log("cartItemCount", cartItemCount)
@@ -47,19 +48,19 @@ const MyNavbar = ({ cartItemCount }) => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto custom-nav">
-              <Nav.Link as={Link}  to="/" style={{ color: '#d1a338' }}>Home</Nav.Link>
-              <Nav.Link as={Link} to="/about" style={{ color: 'white' }}>About Us</Nav.Link>
-              <Nav.Link as={Link} to="/services" style={{ color: 'white' }}>Services</Nav.Link>
-              <Nav.Link as={Link} to="/contact" style={{ color: '#d1a338' }}>Contact</Nav.Link>
+              <Nav.Link as={Link}  to="/"  style={{ color: location.pathname === '/' ? '#d1a338' : 'white' }}>Home</Nav.Link>
+              <Nav.Link as={Link} to="/Footer" style={{ color: location.pathname === '/Footer' ? '#d1a338' : 'white' }}>About Us</Nav.Link>
+              <Nav.Link as={Link} to="/services" style={{ color: location.pathname === '/services' ? '#d1a338' : 'white' }}>services</Nav.Link>
+              <Nav.Link as={Link} to="/contact" style={{ color: location.pathname === '/contact' ? '#d1a338' : 'white' }}>Contact</Nav.Link>
             </Nav>
             <Nav className="ms-auto">
-              <Nav.Link as={Link} to="/cart" style={{ color: '#d1a338' }}>
+              <Nav.Link as={Link} to="/cart" style={{ color: location.pathname === '/cart' ? '#d1a338' : 'white' }}>
                 <i className="bi bi-cart"></i> {cartItemCount}
               </Nav.Link>
               {isLoggedIn ? (
                 <Nav.Link onClick={handleLogout} style={{ color: 'white' }}>Logout</Nav.Link>
               ) : (
-                <Nav.Link as={Link} to="/login" style={{ color: 'white' }}>Login</Nav.Link>
+                <Nav.Link as={Link} to="/login" style={{ color: location.pathname === '/login' ? '#d1a338' : 'white' }}>Login</Nav.Link>
               )}
             </Nav>
           </Navbar.Collapse>

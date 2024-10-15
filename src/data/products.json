@@ -5,16 +5,466 @@
       "productName": "Traditional Gold Jewelry",
       "description": "Exquisite traditional gold jewelry set.",
       "price": 30000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
       "discount": 12,
-      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg"
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+      "menuIcons": [
+        {
+          "id": "9",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/2-300x300.jpg",
+          "name": "Gold Necklace",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        
+        {
+          "id": "10",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Choker-Thumbnail-300x300.jpg",
+          "name": "Choker",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "26",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/09/Untitled-design-2024-09-06T025427.117.png",
+          "name": "Choker",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "27",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-9.png",
+          "name": "Choker",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "28",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-30.png",
+          "name": "Choker",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "29",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/DSC0218-1-scaled.jpg",
+          "name": "Choker",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "30",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/10/yes-3-1-scaled-e1696745563918.jpg",
+          "name": "Choker",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        }
+        
+      ],
+      "similarMenuIcons": [
+        {
+          "id": "19",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/09/Untitled-design-2024-09-06T030009.581.png",
+          "name": "Gold Necklace",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "20",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/05/Untitled-design-2024-05-11T161418.742-e1715424766772.png",
+          "name": "Choker",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        }
+      ],
+      "similarProducts": [
+        {
+          "id": "2",
+          "productName": "Gold Bangles",
+          "description": "Beautiful gold bangles with a polished finish.",
+          "price": 18000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 9,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/Untitled-design-74-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ],
+      "availableSizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "units": [
+        "pair",
+        "piece"
+      ]
     },
     {
       "id": "2",
       "productName": "Gold Bangles",
       "description": "Beautiful gold bangles with a polished finish.",
       "price": 18000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
       "discount": 9,
-      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/Untitled-design-74-1536x1536.png"
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/Untitled-design-74-1536x1536.png",
+      "menuIcons": [
+        {
+          "id": "11",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Sitahar-Thumbnail-300x300.jpg",
+          "name": "Sitahar",
+          "description": "Beautiful gold bangles with a polished finish.",
+          "price": 18000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 9,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "12",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/DSC01ll93-300x300.jpg",
+          "name": "Traditional Set",
+          "description": "Beautiful gold bangles with a polished finish.",
+          "price": 18000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 9,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "21",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/05/Untitled-design-2024-05-11T161418.742-e1715424766772.png",
+          "name": "Gold Necklace",
+          "description": "Premium Gold Plated Floral Gala Bandh Choker",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "22",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/06/Untitled-design-2024-06-01T131402.290.png",
+          "name": "Gold Necklace",
+          "description": "Premium Gold Plated Double Mayur Minakari Kanthi Choker",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "23",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/09/Untitled-design-2024-09-06T030009.581.png",
+          "name": "Gold Necklace",
+          "description": "Premium 24K Gold Plated floral Minakari Choker",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "24",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-11-at-16.52.20_93ef46d2.jpg",
+          "name": "Gold Necklace",
+          "description": "Stylish Gold Plated Jhalor Choker with Earrings",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "25",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/09/Untitled-design-2024-09-06T025504.479.png",
+          "name": "Gold Necklace",
+          "description": "Premium Gold Plated Galabandh Choker",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        }
+      ],
+      "similarProducts": [
+        {
+          "id": "1",
+          "productName": "Traditional Gold Jewelry",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "6",
+          "productName": "Fashionable Earrings",
+          "description": "Beautifully crafted golden earrings.",
+          "price": 8000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ],
+      "availableSizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "units": [
+        "pair",
+        "piece"
+      ]
     },
     {
       "id": "3",
@@ -22,48 +472,2777 @@
       "description": "Stylish gold choker necklace for an elegant look.",
       "price": 27000,
       "discount": 6,
-      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png"
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+      "menuIcons": [
+        {
+          "id": "13",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/bala-300x300.jpg",
+          "name": "Bangle",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "14",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Chain-Thumbnail-300x300.jpg",
+          "name": "Chain",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        }
+      ],
+      "similarProducts": [
+        {
+          "id": "8",
+          "productName": "Classic Diamond Necklace",
+          "description": "A luxurious diamond necklace for special occasions.",
+          "price": 50000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 5,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ],
+      "availableSizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "units": [
+        "pair",
+        "piece"
+      ]
     },
     {
       "id": "4",
       "productName": "Gold Ring",
       "description": "Elegant gold ring with a smooth finish.",
       "price": 15000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
       "discount": 10,
-      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/DSC0198-1536x1536.jpg"
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/DSC0198-1536x1536.jpg",
+      "menuIcons": [
+        {
+          "id": "15",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Earrings-Thumbnail-300x300.jpg",
+          "name": "Earrings",
+          "description": "Elegant gold ring with a smooth finish.",
+          "price": 15000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 10,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "16",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Mantasha-Thumbnail-300x300.jpg",
+          "name": "Mantasha",
+          "description": "Elegant gold ring with a smooth finish.",
+          "price": 15000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 10,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        }
+      ],
+      "similarProducts": [
+        {
+          "id": "1",
+          "productName": "Traditional Gold Jewelry",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "6",
+          "productName": "Fashionable Earrings",
+          "description": "Beautifully crafted golden earrings.",
+          "price": 8000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ],
+      "availableSizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "units": [
+        "pair",
+        "piece"
+      ]
     },
     {
       "id": "5",
       "productName": "Designer Necklace",
       "description": "Stylish designer necklace for women.",
       "price": 25000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
       "discount": 15,
-      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png"
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+      "menuIcons": [
+        {
+          "id": "17",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/pearl-shell.webp",
+          "name": "Pearl Shell",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "18",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/Rings.webp",
+          "name": "Rings",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        }
+      ],
+      "similarProducts": [
+        {
+          "id": "2",
+          "productName": "Gold Bangles",
+          "description": "Beautiful gold bangles with a polished finish.",
+          "price": 18000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 9,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/Untitled-design-74-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ],
+      "availableSizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "units": [
+        "pair",
+        "piece"
+      ]
     },
     {
       "id": "6",
       "productName": "Fashionable Earrings",
       "description": "Beautifully crafted golden earrings.",
       "price": 8000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
       "discount": 12,
-      "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp"
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+      "menuIcons": [
+        {
+          "id": "19",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/Tiara-Tikli.webp",
+          "name": "Tiara",
+          "description": "Beautifully crafted golden earrings.",
+          "price": 8000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        },
+        {
+          "id": "20",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/Lahari.webp",
+          "name": "Lahari",
+          "description": "Beautifully crafted golden earrings.",
+          "price": 8000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
+        }
+      ],
+      "similarProducts": [
+        {
+          "id": "1",
+          "productName": "Traditional Gold Jewelry",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "6",
+          "productName": "Fashionable Earrings",
+          "description": "Beautifully crafted golden earrings.",
+          "price": 8000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ],
+      "availableSizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "units": [
+        "pair",
+        "piece"
+      ]
     },
     {
       "id": "7",
       "productName": "Elegant Bracelet",
       "description": "A finely crafted bracelet with intricate design.",
       "price": 12000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
       "discount": 8,
-      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png"
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+      "similarProducts": [
+        {
+          "id": "2",
+          "productName": "Gold Bangles",
+          "description": "Beautiful gold bangles with a polished finish.",
+          "price": 18000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 9,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/Untitled-design-74-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ],
+      "availableSizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "units": [
+        "pair",
+        "piece"
+      ]
     },
     {
       "id": "8",
       "productName": "Classic Diamond Necklace",
       "description": "A luxurious diamond necklace for special occasions.",
       "price": 50000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
       "discount": 5,
-      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png"
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png",
+      "similarProducts": [
+        {
+          "id": "1",
+          "productName": "Traditional Gold Jewelry",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "6",
+          "productName": "Fashionable Earrings",
+          "description": "Beautifully crafted golden earrings.",
+          "price": 8000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ],
+      "availableSizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "units": [
+        "pair",
+        "piece"
+      ]
+    },
+    {
+      "id": "9",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/2-300x300.jpg",
+      "name": "Gold Necklace",
+      "description": "Exquisite traditional gold jewelry set.",
+      "price": 30000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "discount": 12,
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "similarProducts": [
+        {
+          "id": "8",
+          "productName": "Classic Diamond Necklace",
+          "description": "A luxurious diamond necklace for special occasions.",
+          "price": 50000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 5,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "similarProducts": [
+            {
+              "id": "1",
+              "productName": "Traditional Gold Jewelry",
+              "description": "Exquisite traditional gold jewelry set.",
+              "price": 30000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "5",
+              "productName": "Designer Necklace",
+              "description": "Stylish designer necklace for women.",
+              "price": 25000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 15,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "6",
+              "productName": "Fashionable Earrings",
+              "description": "Beautifully crafted golden earrings.",
+              "price": 8000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "7",
+              "productName": "Elegant Bracelet",
+              "description": "A finely crafted bracelet with intricate design.",
+              "price": 12000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 8,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            }
+          ],
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Choker-Thumbnail-300x300.jpg",
+      "name": "Choker",
+      "description": "Exquisite traditional gold jewelry set.",
+      "price": 30000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "discount": 12,
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "similarProducts": [
+        {
+          "id": "8",
+          "productName": "Classic Diamond Necklace",
+          "description": "A luxurious diamond necklace for special occasions.",
+          "price": 50000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 5,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "similarProducts": [
+            {
+              "id": "1",
+              "productName": "Traditional Gold Jewelry",
+              "description": "Exquisite traditional gold jewelry set.",
+              "price": 30000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "5",
+              "productName": "Designer Necklace",
+              "description": "Stylish designer necklace for women.",
+              "price": 25000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 15,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "6",
+              "productName": "Fashionable Earrings",
+              "description": "Beautifully crafted golden earrings.",
+              "price": 8000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "7",
+              "productName": "Elegant Bracelet",
+              "description": "A finely crafted bracelet with intricate design.",
+              "price": 12000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 8,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            }
+          ],
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Sitahar-Thumbnail-300x300.jpg",
+      "name": "Sitahar",
+      "description": "Beautiful gold bangles with a polished finish.",
+      "price": 18000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "discount": 9,
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "similarProducts": [
+        {
+          "id": "8",
+          "productName": "Classic Diamond Necklace",
+          "description": "A luxurious diamond necklace for special occasions.",
+          "price": 50000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 5,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "similarProducts": [
+            {
+              "id": "1",
+              "productName": "Traditional Gold Jewelry",
+              "description": "Exquisite traditional gold jewelry set.",
+              "price": 30000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "5",
+              "productName": "Designer Necklace",
+              "description": "Stylish designer necklace for women.",
+              "price": 25000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 15,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "6",
+              "productName": "Fashionable Earrings",
+              "description": "Beautifully crafted golden earrings.",
+              "price": 8000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "7",
+              "productName": "Elegant Bracelet",
+              "description": "A finely crafted bracelet with intricate design.",
+              "price": 12000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 8,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            }
+          ],
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/DSC01ll93-300x300.jpg",
+      "name": "Traditional Set",
+      "description": "Beautiful gold bangles with a polished finish.",
+      "price": 18000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "discount": 9,
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "similarProducts": [
+        {
+          "id": "8",
+          "productName": "Classic Diamond Necklace",
+          "description": "A luxurious diamond necklace for special occasions.",
+          "price": 50000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 5,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "similarProducts": [
+            {
+              "id": "1",
+              "productName": "Traditional Gold Jewelry",
+              "description": "Exquisite traditional gold jewelry set.",
+              "price": 30000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "5",
+              "productName": "Designer Necklace",
+              "description": "Stylish designer necklace for women.",
+              "price": 25000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 15,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "6",
+              "productName": "Fashionable Earrings",
+              "description": "Beautifully crafted golden earrings.",
+              "price": 8000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "7",
+              "productName": "Elegant Bracelet",
+              "description": "A finely crafted bracelet with intricate design.",
+              "price": 12000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 8,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            }
+          ],
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/bala-300x300.jpg",
+      "name": "Bangle",
+      "description": "Stylish gold choker necklace for an elegant look.",
+      "price": 27000,
+      "discount": 6,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "similarProducts": [
+        {
+          "id": "8",
+          "productName": "Classic Diamond Necklace",
+          "description": "A luxurious diamond necklace for special occasions.",
+          "price": 50000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 5,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "similarProducts": [
+            {
+              "id": "1",
+              "productName": "Traditional Gold Jewelry",
+              "description": "Exquisite traditional gold jewelry set.",
+              "price": 30000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "5",
+              "productName": "Designer Necklace",
+              "description": "Stylish designer necklace for women.",
+              "price": 25000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 15,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "6",
+              "productName": "Fashionable Earrings",
+              "description": "Beautifully crafted golden earrings.",
+              "price": 8000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "7",
+              "productName": "Elegant Bracelet",
+              "description": "A finely crafted bracelet with intricate design.",
+              "price": 12000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 8,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            }
+          ],
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Chain-Thumbnail-300x300.jpg",
+      "name": "Chain",
+      "description": "Stylish gold choker necklace for an elegant look.",
+      "price": 27000,
+      "discount": 6,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "similarProducts": [
+        {
+          "id": "8",
+          "productName": "Classic Diamond Necklace",
+          "description": "A luxurious diamond necklace for special occasions.",
+          "price": 50000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 5,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "similarProducts": [
+            {
+              "id": "1",
+              "productName": "Traditional Gold Jewelry",
+              "description": "Exquisite traditional gold jewelry set.",
+              "price": 30000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "5",
+              "productName": "Designer Necklace",
+              "description": "Stylish designer necklace for women.",
+              "price": 25000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 15,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "6",
+              "productName": "Fashionable Earrings",
+              "description": "Beautifully crafted golden earrings.",
+              "price": 8000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "7",
+              "productName": "Elegant Bracelet",
+              "description": "A finely crafted bracelet with intricate design.",
+              "price": 12000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 8,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            }
+          ],
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Earrings-Thumbnail-300x300.jpg",
+      "name": "Earrings",
+      "description": "Elegant gold ring with a smooth finish.",
+      "price": 15000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "discount": 10,
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "similarProducts": [
+        {
+          "id": "8",
+          "productName": "Classic Diamond Necklace",
+          "description": "A luxurious diamond necklace for special occasions.",
+          "price": 50000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 5,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "similarProducts": [
+            {
+              "id": "1",
+              "productName": "Traditional Gold Jewelry",
+              "description": "Exquisite traditional gold jewelry set.",
+              "price": 30000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "5",
+              "productName": "Designer Necklace",
+              "description": "Stylish designer necklace for women.",
+              "price": 25000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 15,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "6",
+              "productName": "Fashionable Earrings",
+              "description": "Beautifully crafted golden earrings.",
+              "price": 8000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "7",
+              "productName": "Elegant Bracelet",
+              "description": "A finely crafted bracelet with intricate design.",
+              "price": 12000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 8,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            }
+          ],
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2023/09/Mantasha-Thumbnail-300x300.jpg",
+      "name": "Mantasha",
+      "description": "Elegant gold ring with a smooth finish.",
+      "price": 15000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "discount": 10,
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "similarProducts": [
+        {
+          "id": "8",
+          "productName": "Classic Diamond Necklace",
+          "description": "A luxurious diamond necklace for special occasions.",
+          "price": 50000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 5,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "similarProducts": [
+            {
+              "id": "1",
+              "productName": "Traditional Gold Jewelry",
+              "description": "Exquisite traditional gold jewelry set.",
+              "price": 30000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "5",
+              "productName": "Designer Necklace",
+              "description": "Stylish designer necklace for women.",
+              "price": 25000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 15,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "6",
+              "productName": "Fashionable Earrings",
+              "description": "Beautifully crafted golden earrings.",
+              "price": 8000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 12,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            },
+            {
+              "id": "7",
+              "productName": "Elegant Bracelet",
+              "description": "A finely crafted bracelet with intricate design.",
+              "price": 12000,
+              "priceRangeMin": "1,550",
+              "priceRangeMax": "3,000",
+              "discount": 8,
+              "material": "24K Gold Plated Copper",
+              "boxContains": "1 piece Bala, Card",
+              "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+              "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+              "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+              "availableSizes": [
+                "2.4",
+                "2.6",
+                "2.8"
+              ],
+              "units": [
+                "pair",
+                "piece"
+              ]
+            }
+          ],
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/pearl-shell.webp",
+      "name": "Pearl Shell",
+      "description": "Stylish designer necklace for women.",
+      "price": 25000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "discount": 15,
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "similarProducts": [
+        {
+          "id": "8",
+          "productName": "Classic Diamond Necklace",
+          "description": "A luxurious diamond necklace for special occasions.",
+          "price": 50000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 5,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/WhatsApp-Booking-9831985635-19.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/Rings.webp",
+      "name": "Rings",
+      "description": "Stylish designer necklace for women.",
+      "price": 25000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "discount": 15,
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "similarProducts": [
+        {
+          "id": "2",
+          "productName": "Gold Bangles",
+          "description": "Beautiful gold bangles with a polished finish.",
+          "price": 18000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 9,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/12/Untitled-design-74-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "3",
+          "productName": "Gold Choker Necklace",
+          "description": "Stylish gold choker necklace for an elegant look.",
+          "price": 27000,
+          "discount": 6,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/Untitled-design-46-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/Tiara-Tikli.webp",
+      "name": "Tiara",
+      "description": "Beautifully crafted golden earrings.",
+      "price": 8000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "discount": 12,
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+      "similarProducts": [
+        {
+          "id": "1",
+          "productName": "Traditional Gold Jewelry",
+          "description": "Exquisite traditional gold jewelry set.",
+          "price": 30000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/2250-1-2-1536x1536.jpg",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "5",
+          "productName": "Designer Necklace",
+          "description": "Stylish designer necklace for women.",
+          "price": 25000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 15,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/04/D7395FA0-1BB2-401A-AD2D-6B4D4C0D3F41-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "6",
+          "productName": "Fashionable Earrings",
+          "description": "Beautifully crafted golden earrings.",
+          "price": 8000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 12,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2024/08/men-collection.webp",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        },
+        {
+          "id": "7",
+          "productName": "Elegant Bracelet",
+          "description": "A finely crafted bracelet with intricate design.",
+          "price": 12000,
+          "priceRangeMin": "1,550",
+          "priceRangeMax": "3,000",
+          "discount": 8,
+          "material": "24K Gold Plated Copper",
+          "boxContains": "1 piece Bala, Card",
+          "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+          "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA",
+          "image": "https://jewellerykhazana.com/wp-content/uploads/2023/11/WhatsApp-Booking-9831985635-12-1536x1536.png",
+          "availableSizes": [
+            "2.4",
+            "2.6",
+            "2.8"
+          ],
+          "units": [
+            "pair",
+            "piece"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "image": "https://jewellerykhazana.com/wp-content/uploads/2024/07/Lahari.webp",
+      "name": "Lahari",
+      "description": "Beautifully crafted golden earrings.",
+      "price": 8000,
+      "priceRangeMin": "1,550",
+      "priceRangeMax": "3,000",
+      "discount": 12,
+      "material": "24K Gold Plated Copper",
+      "boxContains": "1 piece Bala, Card",
+      "warranty": "We offer one year color warranty. However, the color remains intact for 4-5 years depending on the usage. Please contact us for recoloring. You can also get it colored in your nearby gold jewelery shop.",
+      "deliveryTime": "2-3 DAYS IN WEST BENGAL, 1 WEEK FOR REST OF INDIA"
     }
+    
   ],
   "addresses": [
     {

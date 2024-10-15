@@ -27,7 +27,7 @@ const Login = ({ users }) => {
     }
   };
   return (
-    <div >
+    <div className='card'>
       <div className='mb-3'>
         <div className='container col-6' style={{ border: '1px solid #d1a338', position: 'relative', top: '10px', }}>
           <h2 style={{ textAlign: "center", color: "#d1a338" }}>Login</h2>

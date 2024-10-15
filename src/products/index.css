@@ -49,7 +49,7 @@
 /* Styles.css */
 .add-to-cart-btn {
   background-color: #d1a338; /* Gold-like color */
-  color: #320000;
+  color: #320000 !important;
   border: none;
   padding: 10px 20px;
   cursor: pointer;

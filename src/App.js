@@ -19,6 +19,9 @@ import PaymentDetails from './PaymentDetails';
 import Login from './login';
 import Register from './Register';
 import ViewOrder from './view-orders';
+import SimilarProducts from './data/similarproducts';
+import ProductPage from './productPage';
+import productsData from './data/products.json'; 
 function App() {
   const [cartItems, setCartItems] = useState([]);
   const [users, setUsers] = useState([]); // Initialize an empty array for users
@@ -52,6 +55,9 @@ function App() {
   const clearCart = () => {
     setCartItems([]); // Clear the cart when payment is done
   };
+  // api.js (or a similar file)
+
+
   return (
     <div className='App-header'>
       <BrowserRouter> {/* Use BrowserRouter here */}
@@ -60,13 +66,17 @@ function App() {
         <Routes>
           <Route path='/login' element={<Login users={users} />}></Route>
           <Route path='/register' element={<Register setUsers={setUsers} />}></Route>
-          <Route path="/" element={<> <Carousel /> <ProductCarousel className="ProductCarousel" /> <Products onAddToCart={handleAddToCart} onRemoveFromCart={handleRemoveFromCart} clearCart={clearCart}/> </>} />
-          <Route path="/product/:id" element={<ProductDetail onAddToCart={handleAddToCart} />} />
+          <Route path="/" element={<> <Carousel /> <ProductCarousel className="ProductCarousel" /><Products onAddToCart={handleAddToCart} onRemoveFromCart={handleRemoveFromCart} clearCart={clearCart}/> </>} />
+          <Route path="/product/:id" element={<><ProductDetail onAddToCart={handleAddToCart} /></>} />
+          
           <Route path="/Cart" element={<Cart cartItems={cartItems} onRemoveFromCart={handleRemoveFromCart} onQuantityChange={onQuantityChange}/>} />
           <Route path="/shippingAddress" element={<ShippingAddress />} />
           <Route path="/DeliveredAddress" element={<DeliveredAddress />} />
           <Route path="/PaymentDetails" element={<PaymentDetails cartItems={cartItems} clearCart={clearCart} />} />
+          <Route path="/ProductPage/:name" element={<ProductPage Products={productsData.products} onAddToCart={handleAddToCart}/>}  />
+          
           <Route path="/ViewOrder" element={<ViewOrder cartItems={cartItems} clearCart={clearCart}/>}/>
+          
         </Routes>
         <Footer/>
       </BrowserRouter>
