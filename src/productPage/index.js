@@ -78,6 +78,7 @@ const ProductPage = ({ Products, onAddToCart: externalOnAddToCart }) => {
 
 
     return (
+        
         <div className='card' >
             <div className="hero-section" style={{
                 backgroundImage: 'url(https://t3.ftcdn.net/jpg/09/64/51/90/360_F_964519076_joyehuCNEoBeQdrGzed7FqqDbaE86Bz7.jpg)',
@@ -97,7 +98,7 @@ const ProductPage = ({ Products, onAddToCart: externalOnAddToCart }) => {
 
                     <div className="categories">
                         <h2>PRODUCT CATEGORIES</h2>
-
+                        <h6>PRODUCT CATEGORIES</h6>
                         <ul>
                             <li style={{ color: 'rgb(14, 1, 1)' }} onClick={() => setSelectedCategory('All Products')}>
                                 All Products
@@ -169,6 +170,7 @@ const ProductPage = ({ Products, onAddToCart: externalOnAddToCart }) => {
             </div>
 
         </div>
+        
     );
 };
 
